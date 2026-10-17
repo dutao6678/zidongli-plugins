@@ -1,0 +1,5 @@
+GlyphsSDK official plugin loader: schriftgestaltung / Georg Seifert, Apache-2.0.
+Vanilla: Tal Leming and Just van Rossum, MIT; unmodified bundled fallback.
+pypdf 6.10.0: BSD-3-Clause; unmodified PDF structural inspection library.
+Apple system frameworks are dynamically linked; not redistributed.
+Python/PyObjC are supplied by Glyphs official Python runtime.
