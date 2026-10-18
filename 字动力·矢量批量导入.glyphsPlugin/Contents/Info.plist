@@ -11,9 +11,9 @@
 	<key>CFBundleName</key>
 	<string>字动力 · 矢量批量导入</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.0.0-rc22</string>
+	<string>1.0.0-rc33</string>
 	<key>CFBundleVersion</key>
-	<string>10022</string>
+	<string>10033</string>
 	<key>LSMinimumSystemVersion</key>
 	<string>13.0</string>
 	<key>NSPrincipalClass</key>

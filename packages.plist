@@ -29,9 +29,9 @@
 				<key>descriptions</key>
 				<dict>
 					<key>en</key>
-					<string>Internal test. SVG, EPS and vector PDF (one page per asset). Requires CPython 3.11/PyObjC 11.1 and a device license. See installation guide.</string>
+					<string>RC33/build10033 internal test. One unexplained exit; six investigation groups did not reproduce it, not marked fixed. Test on font copies. SVG, EPS, vector PDF (one page per asset). Compatible Python 3.11/PyObjC 11.1 and device license required.</string>
 					<key>zh-Hans</key>
-					<string>内测：SVG、EPS、矢量PDF，一页一份素材。需兼容Python3.11/PyObjC11.1及设备授权；安装前阅读说明。</string>
+					<string>RC33/build10033内测：SVG、EPS、矢量PDF（一页一素材）。曾发生原因未明的退出，六组未复现、未标记修复；请用字体副本测试。需兼容Python3.11/PyObjC11.1和设备授权。</string>
 				</dict>
 			</dict>
 		</array>
