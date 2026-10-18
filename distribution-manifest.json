@@ -1,16 +1,16 @@
 {
   "version": "1.0.0-rc33",
   "build": 10033,
-  "status": "internal test; unexplained exit not fixed",
+  "status": "internal test",
   "files": {
-    "README.md": "5ca70c0f01cd0355045373fd61c89a75fdb7be4eb2173785d66ff4402cb86189",
+    "README.md": "8baf19cadc47bb317bf75c54de8a3aa078518c1f08e2479434ae23ebf11dc190",
     "environment/一次性运行环境指南.txt": "85ed469ec0ce90879635cd7b079ea0fd744105957fec6e30c6e1e9f8828cfeae",
     "environment/字动力-运行环境助手-1.0.2.zip": "76267c52e5f10744e0813c83cf43552b6ba44cb09b7d09d0c492f0b85afd6821",
-    "packages.plist": "b7dac91b12606d7ee3d0ad5dc9ed50baf2553c215019daa4cec0a932c4457e11",
+    "packages.plist": "17f8bfd5d3e8a587edde47ba9613e1a755a35055353a0d07a04d1095035fcd7a",
     "一次性运行环境指南.txt": "c2f880c0509eb5e6ece9168b98588818d8040640fbb04dce36d49d5b77c118cc",
-    "使用说明.txt": "9b5799a974a52eba001a5a33ad5f72f66be0ed654172ab336cd9ad6d42ee062f",
-    "发布核验记录.txt": "c610cce4ba2373da81b47dd92cbf16717518a061aff3eae5aebb4c8798b319bd",
-    "字动力-矢量批量导入-1.0.0-rc33.zip": "a1a386ceffb730df3ea937bfe10ab31e3bb5732770eb26ba032c30d33e6628e0",
+    "使用说明.txt": "a570077356efd9fe09da99e2f22d63ff4ade2fe06add7f3d7eff2dede73642a6",
+    "发布核验记录.txt": "161dc0605f295e6ec680981b2c89a81dd6db731c52a454b854a444871b62a6a9",
+    "字动力-矢量批量导入-1.0.0-rc33.zip": "310812dcfb3c6453d17f45b53e4ad0b2906b504fd96fe99bc8f602e0e8b9b88e",
     "字动力·矢量批量导入.glyphsPlugin/Contents/Info.plist": "e78ab0b01d86e524dc2cf86d8989ea9c11a6c5f4bffdea292bb9f353a734438e",
     "字动力·矢量批量导入.glyphsPlugin/Contents/MacOS/plugin": "8c422c5a93c26e8053db364155440da090703880767acbc4a78bb8fb1b079bb7",
     "字动力·矢量批量导入.glyphsPlugin/Contents/Resources/Licenses/GlyphsSDK-Apache-2.0.txt": "bb28c48e3e078166e91cfc2b6db7ffebb8a0973b9e23b3df060561292d8d69ec",
@@ -47,8 +47,8 @@
     "字动力·矢量批量导入.glyphsPlugin/Contents/Resources/plugin.py": "a0aec5d1340e97a06e4e42308914a974a285b8fa7f9e9bae1d1f73c406621e57",
     "字动力·矢量批量导入.glyphsPlugin/Contents/Resources/runtime.zip": "98b211541fd5c08b274a8cbb510c0e1b80bf5eab3b91a37a465757fef5b85b42",
     "字动力·矢量批量导入.glyphsPlugin/Contents/_CodeSignature/CodeResources": "21c9013b90519fa83396d0b7a0462edfeafcdb5e62afd9ee76fa87c09c327407",
-    "安装与激活指南.txt": "ee89a50f85e35434395e88cae1b6f27039d93a84b598ff8d3ca8f5d86e0d93bf",
-    "更新说明.txt": "8f1b4a65f998958470d84081fc0bec081f206c61e2fa0f9d8c8dbf9da6a97c16"
+    "安装与激活指南.txt": "b0d5bda3f63a0c179cd8755a2ecbb5450c3fdfab317ed53028bd85b164fb5de5",
+    "更新说明.txt": "c4a3ed24ab6b194db1ab9f76fbc0380d66a1f1d7b099ac8fc9462206c51a227e"
   },
   "environment_version": "1.0.2",
   "signing": "ad hoc; not notarized"

@@ -28,10 +28,10 @@
 				<string>3532</string>
 				<key>descriptions</key>
 				<dict>
-					<key>en</key>
-					<string>RC33/build10033 internal test. One unexplained exit; six investigation groups did not reproduce it, not marked fixed. Test on font copies. SVG, EPS, vector PDF (one page per asset). Compatible Python 3.11/PyObjC 11.1 and device license required.</string>
 					<key>zh-Hans</key>
-					<string>RC33/build10033内测：SVG、EPS、矢量PDF（一页一素材）。曾发生原因未明的退出，六组未复现、未标记修复；请用字体副本测试。需兼容Python3.11/PyObjC11.1和设备授权。</string>
+					<string>RC33内测版，建议使用字体副本测试，重要操作前保存备份。</string>
+					<key>en</key>
+					<string>RC33 internal test. Test on font copies and save backups before important operations.</string>
 				</dict>
 			</dict>
 		</array>
