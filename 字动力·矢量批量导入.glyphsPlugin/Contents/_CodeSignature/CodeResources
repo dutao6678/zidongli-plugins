@@ -26,7 +26,7 @@
 		</data>
 		<key>Resources/compiled/svg_batch/_write_gate.cpython-311-darwin.so</key>
 		<data>
-		cLmPEEZ+DIUIy3hhpubUMEmGtsw=
+		cPBFtiXGPesjRhdwhWJy7fOx0f0=
 		</data>
 		<key>Resources/compiled/svg_batch/append_preview.cpython-311-darwin.so</key>
 		<data>
@@ -66,7 +66,7 @@
 		</data>
 		<key>Resources/compiled/svg_batch/licensing.cpython-311-darwin.so</key>
 		<data>
-		ZwqxAdv/vkXZd4N6bZrkCl69bVc=
+		cdt12mEsSydHjmU/NUYL5pn1O8Y=
 		</data>
 		<key>Resources/compiled/svg_batch/model.cpython-311-darwin.so</key>
 		<data>
@@ -86,11 +86,11 @@
 		</data>
 		<key>Resources/compiled/svg_batch/pdf_pages.cpython-311-darwin.so</key>
 		<data>
-		7KRUaUF8F64Z7HmupI+NIrfW1Z4=
+		mMWa0DYL77e7Pso+y5LE7Lwp450=
 		</data>
 		<key>Resources/compiled/svg_batch/pdf_strokes.cpython-311-darwin.so</key>
 		<data>
-		xzy3b/Jl4MPhcEVa9Y5rsVpKgQM=
+		vj/kHZZYL2cBYQpLlk19oImpmvk=
 		</data>
 		<key>Resources/compiled/svg_batch/preview_reference.cpython-311-darwin.so</key>
 		<data>
@@ -106,7 +106,7 @@
 		</data>
 		<key>Resources/compiled/svg_batch/stroke_outline.cpython-311-darwin.so</key>
 		<data>
-		RLQ4YPWLbePc7ix6cV60MMnV9os=
+		sSJmAgyXYHKC+0Qu3d0pQ01p5DU=
 		</data>
 		<key>Resources/compiled/svg_batch/svg.cpython-311-darwin.so</key>
 		<data>
@@ -134,19 +134,19 @@
 		</data>
 		<key>Resources/compiled/svg_batch/vector_source.cpython-311-darwin.so</key>
 		<data>
-		HsxuF4RLs3OmFeGIiEJ1d62yNKA=
+		4U6Y/WQM+zbKFAQ6o7ybJVWKh1s=
 		</data>
 		<key>Resources/license-verifier.dylib</key>
 		<data>
-		oMXRqpbIS0xb24dy2Lf45bvYng4=
+		cdE6UwUkFsmlgaxq+8B50gUOI2o=
 		</data>
 		<key>Resources/plugin.py</key>
 		<data>
-		Pukk1QMr5t/qMCjR++XzsZwaG3A=
+		gfWFisknW8ROL7lTGy0SlLxyS/c=
 		</data>
 		<key>Resources/runtime.zip</key>
 		<data>
-		RSvAOT/9ACZ76CNHtI8Wwwu/INA=
+		+A0NiKXncPSu/dmOj6cf5frY5Is=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -210,11 +210,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			cLmPEEZ+DIUIy3hhpubUMEmGtsw=
+			cPBFtiXGPesjRhdwhWJy7fOx0f0=
 			</data>
 			<key>hash2</key>
 			<data>
-			U20Mc0PTxTbiKPjXA8CdfPy2gePY/A1oURDj+RZIYfo=
+			gqDT1lJ6t10cuZnd1JhvCH5HnYclt8x8su3FtHOSFFI=
 			</data>
 		</dict>
 		<key>Resources/compiled/svg_batch/append_preview.cpython-311-darwin.so</key>
@@ -320,11 +320,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ZwqxAdv/vkXZd4N6bZrkCl69bVc=
+			cdt12mEsSydHjmU/NUYL5pn1O8Y=
 			</data>
 			<key>hash2</key>
 			<data>
-			101/VB0shxczUC4JDCtZMlN/fyfu50pUDC3KB7UkR6Y=
+			ojtgut/qNDArem4Dyq/3khfQMIyCqu0JfbGT7Xwws1o=
 			</data>
 		</dict>
 		<key>Resources/compiled/svg_batch/model.cpython-311-darwin.so</key>
@@ -375,22 +375,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			7KRUaUF8F64Z7HmupI+NIrfW1Z4=
+			mMWa0DYL77e7Pso+y5LE7Lwp450=
 			</data>
 			<key>hash2</key>
 			<data>
-			UeZn2g1g5+BwaIWX2lF46mf1BcB8YENqOzIFEsVq40c=
+			qvZMk0Pc1MZ+d8CsXXi0cvci1Vxxxabkol0rzb32zTQ=
 			</data>
 		</dict>
 		<key>Resources/compiled/svg_batch/pdf_strokes.cpython-311-darwin.so</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			xzy3b/Jl4MPhcEVa9Y5rsVpKgQM=
+			vj/kHZZYL2cBYQpLlk19oImpmvk=
 			</data>
 			<key>hash2</key>
 			<data>
-			ACvONXzEXDNpUFcGMEDHpYp+hjxk/3T4P3hXNsAYnqA=
+			RQ69/hVaA2fHY1k3u0oj/rVnhobI6m3WIbYCNCv5Gjg=
 			</data>
 		</dict>
 		<key>Resources/compiled/svg_batch/preview_reference.cpython-311-darwin.so</key>
@@ -430,11 +430,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			RLQ4YPWLbePc7ix6cV60MMnV9os=
+			sSJmAgyXYHKC+0Qu3d0pQ01p5DU=
 			</data>
 			<key>hash2</key>
 			<data>
-			U0dWaDqINHgLnNqJb92h0ru2YSaBc4wKQJv6kjtJrKw=
+			ksAGtpGb3z14vQTDvcW2fnsprDi4ThmsE1HuunfCeds=
 			</data>
 		</dict>
 		<key>Resources/compiled/svg_batch/svg.cpython-311-darwin.so</key>
@@ -507,44 +507,44 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			HsxuF4RLs3OmFeGIiEJ1d62yNKA=
+			4U6Y/WQM+zbKFAQ6o7ybJVWKh1s=
 			</data>
 			<key>hash2</key>
 			<data>
-			HXStY2jHAFFjeKoRrQGeBk+rfY5LvlVDPqErkYXmY54=
+			lQvD31ShcUz7e385PqPOI42pNSewCuJSQUf1CK0vyzo=
 			</data>
 		</dict>
 		<key>Resources/license-verifier.dylib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			oMXRqpbIS0xb24dy2Lf45bvYng4=
+			cdE6UwUkFsmlgaxq+8B50gUOI2o=
 			</data>
 			<key>hash2</key>
 			<data>
-			H3QulU5EZkvnupD56ZeECXaKx0MvEjcPorugfyVtOmI=
+			QM8SATWneOewy7VSmCCx3nwn0EhruAgY9Aexqxrfq/I=
 			</data>
 		</dict>
 		<key>Resources/plugin.py</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Pukk1QMr5t/qMCjR++XzsZwaG3A=
+			gfWFisknW8ROL7lTGy0SlLxyS/c=
 			</data>
 			<key>hash2</key>
 			<data>
-			6nbwZO3byrWJjxFJliKmgGyuEdaO91ui8XUIn1o+Ap8=
+			7dQaeqIcyHCdWxK7ocFD4GIDdhyqt/sP3pBwYM6739I=
 			</data>
 		</dict>
 		<key>Resources/runtime.zip</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			RSvAOT/9ACZ76CNHtI8Wwwu/INA=
+			+A0NiKXncPSu/dmOj6cf5frY5Is=
 			</data>
 			<key>hash2</key>
 			<data>
-			v15EGJ9aM1+4CS2abyUbGJIziA1fFpdVAGhF8UPzqfA=
+			hxtyTpTcG5ubFJuGjy6dE9wlD24evdo6TndfClZPftY=
 			</data>
 		</dict>
 	</dict>
