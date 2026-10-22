@@ -28,10 +28,10 @@
 				<string>3532</string>
 				<key>descriptions</key>
 				<dict>
-					<key>zh-Hans</key>
-					<string>RC39内测版，建议使用字体副本测试，重要操作前保存备份。</string>
 					<key>en</key>
-					<string>RC39 public test. Test on font copies and save backups before important operations.</string>
+					<string>SVG, EPS and vector PDF. One PDF page per asset. Device-bound offline license. Requires the verified CPython 3.11/PyObjC 11.1 environment; read the guide.</string>
+					<key>zh-Hans</key>
+					<string>SVG、EPS和矢量PDF，一页一字／一页一份素材；离线设备授权。需已验证的Python3.11/PyObjC11.1环境，安装前阅读说明。</string>
 				</dict>
 			</dict>
 		</array>
